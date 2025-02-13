@@ -33,7 +33,7 @@ Pastikan Anda sudah menginstal:
 3. **Laravel**
 
 ## ⚙️ Instalasi
-1. **Clone repository atau download source code** dari [releases](#)
+1. **Clone repository atau download source code** dari [[releases]](https://github.com/FatahArumi329/Moody-Melody/releases/tag/team)(#)
 2. **Ekstrak file ZIP** ke dalam folder `htdocs` di XAMPP:
    ```bash
    C:/XAMPP/htdocs/
