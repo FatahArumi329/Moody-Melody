@@ -17,7 +17,7 @@ Moody Melody adalah aplikasi web yang membantu pengguna menemukan musik berdasar
 - 🎵 Playlist personalisasi
 - 🔍 Rekomendasi musik otomatis
 - 👤 Buat Akun & Hapus Akun
-- 🌗 Dark/Light mode toggle
+- 🌗 Dark/Light mode toggle pada desain
 
 ## 💻 Teknologi yang Digunakan
 - **Frontend:** JavaScript, Bootstrap 5, Tailwind, Alpine.js
@@ -33,7 +33,7 @@ Pastikan Anda sudah menginstal:
 3. **Laravel**
 
 ## ⚙️ Instalasi
-1. **Clone repository atau download source code** dari [[releases]](https://github.com/FatahArumi329/Moody-Melody/releases/tag/team)(#)
+1. **Clone repository atau download source code** dari [[releases]](https://github.com/FatahArumi329/Moody-Melody/releases/tag/team)
 2. **Ekstrak file ZIP** ke dalam folder `htdocs` di XAMPP:
    ```bash
    C:/XAMPP/htdocs/
